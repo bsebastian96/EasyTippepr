@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EasyTipper</string>
+    <string name="made_with_by_benson">Made with ❤️ by Benson</string>
+    <string name="textview">TextView</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="total">Total</string>
+    <string name="tip">Tip</string>
+    <string name="_0">0%</string>
+    <string name="base">Base</string>
+    <string name="split_by_1">Split By 1</string>
+</resources>
