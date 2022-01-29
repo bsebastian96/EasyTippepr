@@ -22,4 +22,6 @@
     <color name="greatTip">#ffd600</color>
     <color name="amazingTip">#00e676</color>
 
+    <color name="backgroundIcon">#16F177</color>
+
 </resources>
